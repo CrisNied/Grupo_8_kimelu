@@ -1,4 +1,4 @@
-# Grupo_8_Integrador
+# Grupo_8_NombreDelProyecto
 
 
 Nuestro objetivo es brindar el siguiente producto/servicio, el cual está dirigido a un publico..
@@ -7,4 +7,4 @@ Nuestro objetivo es brindar el siguiente producto/servicio, el cual está dirigi
 Acerca de nosotros:
 
 
-Encontramos la inspiración en estos 5 sitios webs..:
+Encontramos la inspiración en 5 sitios webs..:
