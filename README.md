@@ -1,4 +1,4 @@
-# Grupo_8_KIMELU
+# Grupo_8_Kimelu
 
 ### Temática del sitio.
 E-commerce de actividades turisticas.
