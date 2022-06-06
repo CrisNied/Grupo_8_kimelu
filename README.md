@@ -5,7 +5,7 @@ E-commerce de actividades turisticas.
 
 
 ### Objetivo.
-Nos proponemos a captar la atencion de quienes buscan vivir una experiencia distinta a la hora de realizar actividades en **(Buscar una Ciudad)**(Buscar una Ciudad)**.
+Nos proponemos a captar la atencion de quienes buscan vivir una experiencia distinta a la hora de realizar actividades en **(Buscar una Ciudad)**.
 ### Links de referencia.
 
 |QUETRIHUE| http://quetrihueviajesyturismo.tur.ar/ |
@@ -16,4 +16,3 @@ Nos proponemos a captar la atencion de quienes buscan vivir una experiencia dist
 Acerca de nosotros:
 
 
-Encontramos la inspiración en 5 sitios webs..:
