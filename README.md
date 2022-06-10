@@ -1,4 +1,4 @@
-# Grupo_8_Kimelu
+# Grupo 8 - KIMELÜ
 
 ### Temática del sitio.
 E-commerce de actividades turisticas.
@@ -19,6 +19,11 @@ Nos proponemos a captar la atencion de quienes buscan vivir una experiencia dist
 
 
 
-### Acerca de nosotros:
+### INTEGRANTES:
+- **BLANEZ, Mariana Soledad**: 27. Community manager, fotógrafa, scout y autodidacta en Diseño Gráfico. Programación FullStack con Digital House y Fundación Formar.
 
+- **LIWAY, Nicolas**:
 
+- **NIEDZWIADEK, Cristian**:
+
+- **RIVEROS, Kevin**:
