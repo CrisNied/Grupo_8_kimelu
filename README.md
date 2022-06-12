@@ -24,6 +24,6 @@ Nos proponemos a captar la atencion de quienes buscan vivir una experiencia dist
 
 - **LIWAY, Nicolas**:
 
-- **NIEDZWIADEK, Cristian**:
+- **NIEDZWIADEK, Cristian**: Desarrollo web FullStack con Digital House y Fundación Formar.
 
 - **RIVEROS, Kevin**:
