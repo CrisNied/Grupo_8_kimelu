@@ -1,17 +1,17 @@
 # Bienvenidos a KIMELÜ
 (*INSERTAR LOGO AQUÍ*)
-
+![Image text](https://github.com/CrisNied/Grupo_8_Integrador/blob/master/design/LOGO_LOGO%20VARIANTE1.png)
 >KIMELÜ proviene del mapuche que significa "Dar a conocer".
 ___
 
 ### Temática del sitio.
 E-commerce de actividades turisticas.
 
-### ++Objetivo.++
+### Objetivo.
 El cliente nos solicito un E-commerce destinado a captar la atencion de aquellos consumidores que buscan vivir una experiencia distinta a la hora de realizar actividades turisticas en la ciudad de **San Carlos de Bariloche**. En la cual tambien ofrece el servicio de Transfer IN/OUT - Aeropuerto/Alojamiento/Aeropuerto.
 
 ### Links de referencia.
-### ++Links de referencia.++
+
 | NOMBRE | PAGINA |  INSPIRACION  |
 | ------ | ------ | ----- |
 |QUETRIHUE| http://quetrihueviajesyturismo.tur.ar/ |"Lo que quisimos tomar de esta pag"|
