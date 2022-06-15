@@ -11,15 +11,13 @@ El cliente nos solicito un E-commerce destinado a captar la atencion de aquellos
 
 ### Links de referencia.
 
-| NOMBRE | PAGINA |  INSPIRACION  |
-| ------ | ------ | ----- |
-|QUETRIHUE| http://quetrihueviajesyturismo.tur.ar/ |"Lo que quisimos tomar de esta pag"|
-|TOLKEYEN PATAGONIA | https://tolkeyenpatagonia.com/ |"Lo que quisimos tomar de esta pag"|
-|RUMBO SUR | https://www.rumbosur.com.ar/ | "Lo que quisimos tomar de esta pag"|
-|NORDIC TRAVEL| https://www.nordic-travel.com.ar/ | "Lo que quisimos tomar de esta pag"|
-|TURISUR|https://www.turisur.com.ar/ | "Lo que quisimos tomar de esta pag"|
-|PATAGONIA CHIC|https://www.patagoniachic.com/|"Lo que quisimos tomar de esta pag"|
-|CALAFATE TOURS|https://www.calafate.tours/|"Lo que quisimos tomar de esta pag"|
+[QUETRIHUE](http://quetrihueviajesyturismo.tur.ar/): Esta pag. nos gusto por "x" motivo.
+[TOLKEYEN PATAGONIA](https://tolkeyenpatagonia.com/) : Esta pag. nos gusto por "x" motivo.
+[RUMBO SUR](https://www.rumbosur.com.ar/ ): Esta pag. nos gusto por "x" motivo.
+[NORDIC TRAVEL](https://www.nordic-travel.com.ar/): Esta pag. nos gusto por "x" motivo.
+[TURISUR](https://www.turisur.com.ar/): Esta pag. nos gusto por "x" motivo.
+[PATAGONIA CHIC](https://www.patagoniachic.com/): Esta pag. nos gusto por "x" motivo.
+[CALAFATE TOURS](https://www.calafate.tours/): Esta pag. nos gusto por "x" motivo.
 
 ___
 ### Proyecto Integrador - Grupo 8 - _Digital House / Fundacion Formar_
@@ -35,3 +33,7 @@ ___
 
 ___
 ***"Un viaje de miles de kilómetros empieza con un pequeño paso." Lao-Tse***
+___
+
+> [IG Fundacion Formar](https://www.instagram.com/fundacionformar/)
+> [IG Digital House](https://www.instagram.com/_digitalhouse/)
