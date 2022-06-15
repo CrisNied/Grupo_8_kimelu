@@ -22,7 +22,7 @@ Nos proponemos captar la atencion de quienes buscan vivir una experiencia distin
 ### INTEGRANTES:
 - **BLANEZ, Mariana Soledad**: 27. Community manager, fotógrafa, scout y autodidacta en Diseño Gráfico. Programación FullStack con Digital House y Fundación Formar.
 
-- **LIWAY, Nicolas**:
+- **LIWAY, Nicolas**:24 años,me dedico a hacer servicio tecnico de , refrigeraciony  y lavarropas , manejo un local de compra y venta de usados .programador fullstack con Digitalhouse y fundacion formar.
 
 - **NIEDZWIADEK, Cristian**: Desarrollo web FullStack con Digital House y Fundación Formar.
 
