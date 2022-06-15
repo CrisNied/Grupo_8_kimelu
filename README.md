@@ -1,5 +1,4 @@
 # Bienvenidos a KIMELÜ
-(*INSERTAR LOGO AQUÍ*)
 ![Image text](https://github.com/CrisNied/Grupo_8_Integrador/blob/master/design/LOGO_LOGO%20VARIANTE1.png)
 >KIMELÜ proviene del mapuche que significa "Dar a conocer".
 ___
