@@ -11,13 +11,13 @@ El cliente nos solicito un E-commerce destinado a captar la atencion de aquellos
 
 ### Links de referencia.
 
-[QUETRIHUE](http://quetrihueviajesyturismo.tur.ar/): Esta pag. nos gusto por "x" motivo.
-[TOLKEYEN PATAGONIA](https://tolkeyenpatagonia.com/) : Esta pag. nos gusto por "x" motivo.
-[RUMBO SUR](https://www.rumbosur.com.ar/ ): Esta pag. nos gusto por "x" motivo.
-[NORDIC TRAVEL](https://www.nordic-travel.com.ar/): Esta pag. nos gusto por "x" motivo.
-[TURISUR](https://www.turisur.com.ar/): Esta pag. nos gusto por "x" motivo.
-[PATAGONIA CHIC](https://www.patagoniachic.com/): Esta pag. nos gusto por "x" motivo.
-[CALAFATE TOURS](https://www.calafate.tours/): Esta pag. nos gusto por "x" motivo.
+ - [QUETRIHUE](http://quetrihueviajesyturismo.tur.ar/): De esta pagina lo que nos gusto, la parte de nosotros y tomamos el servicio de traslados.
+ - [TOLKEYEN PATAGONIA](https://tolkeyenpatagonia.com/) : Esta pag. nos gusto la opcion de login.
+ - [VIVIR VIAJES](https://www.vivirviajes.tur.ar/ ): Esta pag. nos gusto por el home con carrusel al principio con diferentes opciones, footer, y algunas propuestas que utilizaremos para inspiracion a la hora de los servicios a ofrecer.
+ - [NORDIC TRAVEL](https://www.nordic-travel.com.ar/): Esta pag. nos gusto por como controlan las reservas y eso lo utilizaremos para aplicar desde el area del perfil del usuario, a su vez tomamos la idea de aplicar el naranja como ellos para ciertas cosas por la psicologia del color en el ambito del turismo.
+ - [TURISUR](https://www.turisur.com.ar/): Esta pag. nos gusto por que nos ayudo a inspirarnos para el detalle del producto.
+ - [PATAGONIA CHIC](https://www.patagoniachic.com/): Esta pag. nos gusto por las animaciones que tiene la pagina y la cantidad de detalles que observamos, la parte de la reservas en el detalle de producto, nos inspiraron. Tambien la metodologia que utilizan para sumar los productos al carrito y la experiencia del carrito.
+ - [CALAFATE TOURS](https://www.calafate.tours/): Esta pag. nos gusto por la parte de realizacion de reserva y al carrito de compras.
 
 ___
 ### Proyecto Integrador - Grupo 8 - _Digital House / Fundacion Formar_
