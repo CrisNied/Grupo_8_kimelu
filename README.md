@@ -29,7 +29,7 @@ ___
 
 - **NIEDZWIADEK, Cristian**: Desarrollo web FullStack con Digital House y Fundación Formar.
 
-- **RIVEROS, Kevin**:
+- **RIVEROS, Kevin**: Programación FullStack en Digital House y Fundación Formar.
 
 ___
 ***"Un viaje de miles de kilómetros empieza con un pequeño paso." Lao-Tse***
