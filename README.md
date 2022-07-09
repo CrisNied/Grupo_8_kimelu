@@ -1,5 +1,5 @@
 # Bienvenidos a KIMELÜ
-![LOGO DE KIMELU](https://raw.githubusercontent.com/CrisNied/Grupo_8_Integrador/master/public/img/logo-kimelu.png)
+![LOGO DE KIMELU](https://raw.githubusercontent.com/CrisNied/Grupo_8_Integrador/master/extras/design/logo-kimelu.png)
 >KIMELÜ proviene del mapuche que significa "Dar a conocer".
 ___
 
@@ -20,7 +20,7 @@ El cliente nos solicito un E-commerce destinado a captar la atencion de aquellos
  - [CALAFATE TOURS](https://www.calafate.tours/): Esta pag. nos gusto por la parte de realizacion de reserva y al carrito de compras.
 ___
 ### TRELLO:
-[TABLERO DE TRABAJO](https://trello.com/invite/b/28hDJKBo/6d01c8cc2121b50fdc48817444203706/grupo-8-kimelu): 
+[TABLERO DE TRABAJO](https://trello.com/invite/b/28hDJKBo/6d01c8cc2121b50fdc48817444203706/grupo-8-kimelu)
 ___
 ### Proyecto Integrador - Grupo 8 - _Digital House / Fundacion Formar_
 
