@@ -1,0 +1,13 @@
+:root{
+    /*GAMA DE COLORES A UTILIZAR*/
+    --blanco: #ffffff;
+    --celesteClaro: #ddeaf1;
+    --celeste: #205e73;
+    --azulOscuro: #092432;
+    --naranja: #d35b15;
+    
+    /*TIPOGRAFIAS A UTILIZAR EN LA WEB. MONTSERRAT GENERAL, ROBOTO NUMEROS.*/
+    --fontGeneral: 'Montserrat', sans-serif;
+    --fontNumeros: 'Roboto', sans-serif;
+}
+

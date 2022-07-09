@@ -1,5 +1,5 @@
 # Bienvenidos a KIMELÜ
-![Image text](https://raw.githubusercontent.com/CrisNied/Grupo_8_Integrador/master/public/img/logo-kimelu.png)
+![LOGO DE KIMELU](https://raw.githubusercontent.com/CrisNied/Grupo_8_Integrador/master/public/img/logo-kimelu.png)
 >KIMELÜ proviene del mapuche que significa "Dar a conocer".
 ___
 
@@ -18,14 +18,14 @@ El cliente nos solicito un E-commerce destinado a captar la atencion de aquellos
  - [TURISUR](https://www.turisur.com.ar/): Esta pag. nos gusto por que nos ayudo a inspirarnos para el detalle del producto.
  - [PATAGONIA CHIC](https://www.patagoniachic.com/): Esta pag. nos gusto por las animaciones que tiene la pagina y la cantidad de detalles que observamos, la parte de la reservas en el detalle de producto, nos inspiraron. Tambien la metodologia que utilizan para sumar los productos al carrito y la experiencia del carrito.
  - [CALAFATE TOURS](https://www.calafate.tours/): Esta pag. nos gusto por la parte de realizacion de reserva y al carrito de compras.
-
+___
+### TRELLO:
+[TABLERO DE TRABAJO](https://trello.com/invite/b/28hDJKBo/6d01c8cc2121b50fdc48817444203706/grupo-8-kimelu): 
 ___
 ### Proyecto Integrador - Grupo 8 - _Digital House / Fundacion Formar_
 
 ### INTEGRANTES:
 - **BLANEZ, Mariana Soledad**: 27. Community manager, fotógrafa, scout y autodidacta en Diseño Gráfico. Programación FullStack con Digital House y Fundación Formar.
-
-- **LIWAY, Nicolas**: 24. Me dedico a hacer servicio tecnico de refrigeracion y lavarropas. Manejo un local de compra y venta de usados. Programador Fullstack con Digital House y Fundación Formar.
 
 - **NIEDZWIADEK, Cristian**: Desarrollo web FullStack con Digital House y Fundación Formar.
 
